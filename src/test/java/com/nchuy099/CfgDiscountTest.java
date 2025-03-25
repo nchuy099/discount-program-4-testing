@@ -3,7 +3,7 @@ package com.nchuy099;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class DiscountTest {
+public class CfgDiscountTest {
 
     @Test
     public void testId1() {
